@@ -1,2 +1,2 @@
-# ARMoleHItGame
+# ARMoleHitGame
 ARのもぐらたたきゲームです。
